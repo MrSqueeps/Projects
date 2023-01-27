@@ -2,3 +2,6 @@ html {
     background-color: #1FCDD8;
     cursor: url("safeimagekit-pixel-art.png"), auto;
 }
+a {
+    cursor: url('mort.png'), auto;
+}
